@@ -1,4 +1,7 @@
 <?php
  echo "Hello world";
-  echo "Hello world";
+ 
+ $name = "Sidra";
+ echo "<br>";
+ echo $name;
 ?>
